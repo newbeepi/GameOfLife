@@ -56,7 +56,6 @@ object GameOfLife extends JFXApp3 {
     }
     var isRunning = false
     canvas.handleEvent(MouseEvent.MouseClicked){ (me: MouseEvent) => {
-      println("Handled click!")
       if (!isRunning){
         life.reverseCellColor(me.sceneX, me.sceneY)
       }
