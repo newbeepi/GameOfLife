@@ -27,3 +27,18 @@
    
         sbt run
     ```
+    if you followed this guid you should see cells and some buttons
+
+## How to use
+    
+   While not running you may draw by yourself elsewhere you may only use buttons
+
+| Button  | Function |
+| ------------- | ------------- |
+| Blinker  | Generates a blinker pattern for game |
+| Type 2  | ToDo |
+| Random | Randomly fills all cells |
+| Step | Make one step |
+| Run | Start program that makes one step every 0.5 seconds (you may change it in GameOfLife.scala at 52 line |
+| Stop | Pause program |
+| Reset | Clear's all cells |
