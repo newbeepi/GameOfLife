@@ -56,7 +56,7 @@ It is Turing complete and can simulate a universal constructor or any other Turi
 ## How it works?
 
 Beacon(period 2) pattern
-![](https://github.com/newbeepi/GameOfLife/blob/gameoflife/demonstrate_how_program_works/gameoflife2.gif)
+![](https://github.com/newbeepi/GameOfLife/blob/main/gameoflife2.gif)
 
 Randomly filled
-![](https://github.com/newbeepi/GameOfLife/blob/gameoflife/demonstrate_how_program_works/gameoflife1.gif)
+![](https://github.com/newbeepi/GameOfLife/blob/main/gameoflife1.gif)
