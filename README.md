@@ -41,7 +41,7 @@ It is Turing complete and can simulate a universal constructor or any other Turi
 
 ## How to use
     
-   While not running you may draw by yourself elsewhere you may only use buttons
+   While not running you may draw by yourself otherwise you may only use buttons
 
 | Button  | Function |
 | ------------- | ------------- |
