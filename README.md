@@ -52,3 +52,11 @@ It is Turing complete and can simulate a universal constructor or any other Turi
 | Run | Start program that makes one step every 0.5 seconds (you may change it in GameOfLife.scala at 52 line |
 | Stop | Pause program |
 | Reset | Clear's all cells |
+
+## How it works?
+
+Beacon(period 2) pattern
+![](https://github.com/newbeepi/GameOfLife/blob/gameoflife/demonstrate_how_program_works/gameoflife2.gif)
+
+Randomly filled
+![](https://github.com/newbeepi/GameOfLife/blob/gameoflife/demonstrate_how_program_works/gameoflife1.gif)
